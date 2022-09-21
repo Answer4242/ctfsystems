@@ -9,6 +9,7 @@ html, body {
   background-color: #fff;
   background-image: url("ctf.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 main {

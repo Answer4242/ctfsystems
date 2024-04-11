@@ -9,12 +9,12 @@ html, body {
   background-color: #fff;
   background-image: url("ctf.png");
   background-repeat: no-repeat;
-  background-size: 50%;
+  background-size: 25%;
 }
 
 main {
   margin: auto;
-  width: 50%;
+  width: 25%;
   padding: 20px;
 }
 

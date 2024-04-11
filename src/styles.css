@@ -5,12 +5,12 @@
 html, body {
   margin: 0;
   border: 0;
-  padding: 10;
+  padding: 0;
   background-color: #fff;
   background-image: url("ctf.png");
   background-repeat: no-repeat;
   background-size: 25%;
-  background-position: center top;
+  background-position: 50% 50%;
 }
 
 main {

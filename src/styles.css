@@ -10,6 +10,7 @@ html, body {
   background-image: url("ctf.png");
   background-repeat: no-repeat;
   background-size: 25%;
+  background-position: center;
 }
 
 main {
